@@ -4,4 +4,8 @@ amirhosein khanmohammadi
 bye
 salam
 
+<<<<<<< HEAD
 hello
+=======
+salam amir
+>>>>>>> 5d535c61729a0c2def9467e9fc11b02e5bfcc90a
